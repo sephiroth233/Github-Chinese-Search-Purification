@@ -7,8 +7,6 @@
 // @match        https://github.com/search*
 // @match        https://github.com/*
 // @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/499789/Github%E4%B8%AD%E6%96%87%E6%90%9C%E7%B4%A2%E5%87%80%E5%8C%96.user.js
-// @updateURL https://update.greasyfork.org/scripts/499789/Github%E4%B8%AD%E6%96%87%E6%90%9C%E7%B4%A2%E5%87%80%E5%8C%96.meta.js
 // ==/UserScript==
 
 (function() {
