@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Github中文搜索净化
 // @namespace    http://danke666.top/
-// @version      1.5
-// @author       DanKe
+// @version      1.6
+// @author       DanKe, Mightnire
 // @description  Github中文搜索净化，屏蔽特定用户群
 // @match        https://github.com/search*
 // @match        https://github.com/*
 // @grant        none
+// @downloadURL  https://github.com/Mightnire/Github-Chinese-Search-Purification/raw/refs/heads/main/GithubChineseSearchPurification.user.js
+// @updateURL    https://github.com/Mightnire/Github-Chinese-Search-Purification/raw/refs/heads/main/GithubChineseSearchPurification.user.js
 // ==/UserScript==
 
 (function() {
