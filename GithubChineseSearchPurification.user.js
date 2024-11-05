@@ -24,7 +24,7 @@
         if (resultsList) {
             const notice = document.createElement('div');
             notice.style.cssText = 'text-align: center; padding: 10px; margin: 10px; background-color: #f9f9f9; border: 1px solid #e1e4e8;';
-            notice.textContent = '已屏蔽 ' + num + ' 个不受欢迎的仓库';
+            notice.textContent = '已屏蔽 ' + num + ' 个垃圾';
             resultsList.appendChild(notice);
         }
     }
@@ -85,6 +85,5 @@
         childList: true,
         subtree: true
     });
-
 
 })();
