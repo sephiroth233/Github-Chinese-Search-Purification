@@ -34,7 +34,7 @@
         'Ifem2BXvz4N4gh1gGn0bkR3Lp',
         'vpnkaifa',
         'BJ318',
-
+        'CNwoman-bot',
     ];
 
     function addBlockedNotice() {
